@@ -1,5 +1,5 @@
 
-# 💻 Project Title: Web-Scraping Automation for Interview Prep
+# 💻 Interview Prep Data Collection & Analysis
 
 ### ✨ Description
 An automation script to scrape text content from a list of external links (initially planned for YouTube transcripts but pivoted to general web pages) in an Excel file and automatically upload the compiled JSON file to Google Drive.
